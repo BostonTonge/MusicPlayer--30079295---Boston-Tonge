@@ -13,8 +13,8 @@ window.configure(border=10, relief="raised", bg="lightgrey")
 #Declarng and Importing Images
 Avatar = PhotoImage(file="images/app_images/profilepicture.png")
 Spotify = PhotoImage(file="images/app_images/spotifylogo.png")
-Youtube = PhotoImage(file="images/app_images//youtubelogo.png")
-Instagram = PhotoImage(file="images/app_images//instagramlogo.png")
+Youtube = PhotoImage(file="images/app_images/youtubelogo.png")
+Instagram = PhotoImage(file="images/app_images/instagramlogo.png")
 
 
 
