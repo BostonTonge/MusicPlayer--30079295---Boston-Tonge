@@ -10,9 +10,9 @@ window.eval('tk::PlaceWindow . center') # Puts window in center of page
 window.configure(border=10, relief="raised", bg="lightgrey")
 
 #Importing and Defining Images
-LeftArrow = PhotoImage(file="images/button_leftarrow.png")
-DownArrow = PhotoImage(file="images/button_downarrow.png")
-RightArrow = PhotoImage(file="images/button_rightarrow.png")
+LeftArrow = PhotoImage(file="images/app_images/button_leftarrow.png")
+DownArrow = PhotoImage(file="images/app_images/button_downarrow.png")
+RightArrow = PhotoImage(file="images/app_images/button_rightarrow.png")
 
 #Return Button
 
