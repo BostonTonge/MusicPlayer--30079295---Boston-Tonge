@@ -8,16 +8,15 @@ window.resizable(width = 0, height =0) # non-resizable
 window.eval('tk::PlaceWindow . center')
 window.configure(border=10, relief="raised", bg="lightgrey")
 
-Logo = PhotoImage(file="images/logo1.png")
-TeReo = PhotoImage(file="images/button_tereo.png")
-Pasifika = PhotoImage(file="images/button_pasifika.png")
-Multicultural = PhotoImage(file="images/button_multicultural.png")
-Pop = PhotoImage(file="images/button_pop.png")
-Rap = PhotoImage(file="images/button_rap.png")
-RB = PhotoImage(file="images/button_rb.png")
-Country = PhotoImage(file="images/button_country.png")
-Reggae = PhotoImage(file="images/button_reggae.png")
-Rock = PhotoImage(file="images/button_rock.png")
+TeReo = PhotoImage(file="images/app_images/button_tereo.png")
+Pasifika = PhotoImage(file="images/app_images/button_pasifika.png")
+Multicultural = PhotoImage(file="images/app_images/button_multicultural.png")
+Pop = PhotoImage(file="images/app_images/button_pop.png")
+Rap = PhotoImage(file="images/app_images/button_rap.png")
+RB = PhotoImage(file="images/app_images/button_rb.png")
+Country = PhotoImage(file="images/app_images/button_country.png")
+Reggae = PhotoImage(file="images/app_images/button_reggae.png")
+Rock = PhotoImage(file="images/app_images/button_rock.png")
 
 
 
